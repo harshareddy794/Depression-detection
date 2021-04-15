@@ -1,8 +1,0 @@
-Flask
-Jinja2
-numpy
-scipy
-scikit-learn
-matplotlib
-pandas
-gunicorn

@@ -24,3 +24,6 @@ def clasify():
     predection = reg.predict(arr)
     return render_template("clasify.html",data = predection)
     return "hello"
+
+if __name__ == "__main__":
+    app.run(debug=True)
